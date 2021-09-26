@@ -8,6 +8,7 @@ For example, given the sample file input ...
 
 ... the output should resemble the following ...
 
+
 [0 - 24]: 1
 [25 - 49]: 2
 [50 - 74]: 0
